@@ -1,0 +1,42 @@
+.mycard{
+margin-top:20px;
+box-shadow:1px 1px 10px #0000;
+padding-left:25px;
+padding-right:25px;
+}
+
+.social-login-btn{
+    background-color: #fff;
+    padding:5px;
+    width:100%;
+    border:none;
+    box-shadow: 1px 1px 5px lightgray;
+    border-radius:5px;
+    outline:#ffff;
+    /* margin-top:10px; */
+}
+.social-login-btn img{
+    width:25px;
+    height:25px;
+}
+.logo{
+    width:25px;
+    height:25px;
+}
+
+.facebook-login-btn{
+    background-color:#ffff;
+    padding:5px;
+    width:100% !important;
+    border:none;
+    box-shadow: 1px 1px 5px lightgray;
+    border-radius:5px;
+    outline:#ffff;
+    height:45px;
+    cursor: pointer;
+}
+@media(max-width:991px){
+    .facebook-login-btn{
+        margin-top:10px;
+    }
+}
