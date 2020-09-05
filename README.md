@@ -13,6 +13,10 @@ given in package.json.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+##code nuances 
+when we login to facebook it ask everytime everytime permission from app admin
+
 ## Available Scripts
 
 In the project directory, you can run:
