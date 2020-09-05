@@ -14,9 +14,14 @@ given in package.json.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-##code nuances 
-when we login to facebook it ask everytime everytime permission from app admin
+##code nuances
 
+Use these ids for login with facebook:
+1. email:nlbggucpbe_1599308278@tfbnw.net
+    password:Test123!@#
+2. email:open_wwgcfsh_user@tfbnw.net
+    password:Test123!@#
+    
 ## Available Scripts
 
 In the project directory, you can run:
